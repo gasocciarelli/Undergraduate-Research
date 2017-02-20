@@ -24,4 +24,4 @@ I created a new GitHub account that was specific to my YSU email address. My doc
 
 6th week: 
 
-After the meeting, I met with Dr. Yu the next day to discuss how to use the server and get started learning PostgreSQL first hand. He showed me how to log in and get into things. Once I was shwon, I realized I'll have to learn a lot more terminal commands for Ubuntu. 
+After the meeting, I met with Dr. Yu the next day to discuss how to use the server and get started learning PostgreSQL first hand. He showed me how to log in and get into things. Once I was shwon, I realized I'll have to learn a lot more terminal commands for Ubuntu. I looked up how to install PostgreSQL on the server, using the command sudo apt-get install postgresql. 
