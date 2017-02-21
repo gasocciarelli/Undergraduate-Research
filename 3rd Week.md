@@ -1,0 +1,3 @@
+3rd week:
+
+I started reading the 2nd section of the document, entitled "The SQL Language." There's a lot more to this part than the previous sections. The 2nd section starts with Chapter 4, "SQL Syntax." Lexical Structures, 4.1 is the first part of Chapter 4. It went through a lot of the commands that I was familiar with. The part with Unicode was a little confusing, so I had to read that over again a few times. I'm still not completely sure about it. The part about the dollar sign was a useful trick to learn. I was already familiar with commenting in my code, but I haven't had to do that much with SQL. It also started going through operators and special characters.
