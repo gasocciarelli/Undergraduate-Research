@@ -1,1 +1,2 @@
 
+Thanks to that website Dr. Yu sent me, I was able to get PostgreSQL installed properly. I am now able to get into the system and use SQL commands. There is not a database, however. So there will either have to be a database I can install or I will have to create a brand new database of ficticious information. That website will still have to be used so I know how to log in and out navigate through things until I become more familiar with it. 
