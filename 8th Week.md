@@ -7,3 +7,5 @@ I decided to start inputing the tables and data into the database not all at onc
 To remove the table and values, I just used "drop table rep;" and "drop table customer;". I created the tables the same way, but decided to type out the values instead of copy and paste. Doing so resulted in the same problem. So I'm going to type everything out for a table to make sure I do not run into whatever problem this is. 
 
 Typed everything out instead of copy and paste and it still gave me the same problem. I started looking at the examples in the article and it had the column names listed for each value inserted, so I might try that route.
+
+I tried typing everything out a different way, but ran into another problem I'll have to tackle at another time. Logged back in and decided to select my table without values in it. I ran into that problem, so now I really do not know. 
