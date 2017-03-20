@@ -1,1 +1,1 @@
-
+I logged back into the database. I tried selecting one of my tables I created, figuring it would give me the same problem I previously had. The same problem occurred, but I found a way out. I decided to randomly hit some keys to see what would happen instead of having to quit and log back in again. In doing so, I hit the Q key and it got me out of that previous problem. 
