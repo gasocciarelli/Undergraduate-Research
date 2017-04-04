@@ -1,0 +1,1 @@
+So all of the different ways I looked at to instal phppgadmin through Ubuntu seem to imply that I have to install the whole thing over again. I started following the instructions that were listed in a few of them and it did confirm that the whole thing would have to be set up again. That would mean I would have to create and insert the tables and dataset. 
