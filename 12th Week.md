@@ -1,1 +1,3 @@
 So I tried to read up some more on what to do next once everything is kind of going smoothly. What seems to be the next step is to edit some of the code so I can access phppgadmin. One of the ways I tried prompted some text that said that I do not have permission to write. 
+
+One of the other ways I just tried did not seem to work out too well. I got to a place that seemed like it would let me edit something. A lot of what I'm supposed to do implies that there's a line of code I have to change to give me permission to access phppgadmin. The newest way I just tried said that the directory I tried to access does not exist. 
