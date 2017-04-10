@@ -1,1 +1,1 @@
-
+So I tried to read up some more on what to do next once everything is kind of going smoothly. What seems to be the next step is to edit some of the code so I can access phppgadmin. One of the ways I tried prompted some text that said that I do not have permission to write. 
