@@ -1,1 +1,1 @@
-
+There was not much to do this final week. The server thing to log on was shut down. Without the ability to log in, I could not practuce commands or continue to install phppgadmin. I decided to just reflect on my previous work and refamiliarize myself with SQL commands. 
