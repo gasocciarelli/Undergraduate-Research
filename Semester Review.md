@@ -1,1 +1,3 @@
-Overall, this semester has been a learning experience. I did not know what PostgreSQL is, let along what it takes to set up the program on Ubuntu servers. 
+Overall, this semester has been a learning experience. I did not know what PostgreSQL is, let along what it takes to set up the program on Ubuntu servers. I feel I am now more familiar with the program and the set up process. 
+
+The beginning of the semester, I spent more time reading about the program on their website. Most of the introduction was rather familiar stuff, going over the basics of the commands and about some of the initial set up process. It felt more like it was written just about the code itself and was not as specific on whether it would be with a screen or with a command line. 
